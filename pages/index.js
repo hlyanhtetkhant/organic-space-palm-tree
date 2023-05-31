@@ -8,6 +8,7 @@ function Home() {
        </head>
        <main>
            <h1>Hello</h1>
+           <h2>World<h2/>
       </main>
   </div>
     
